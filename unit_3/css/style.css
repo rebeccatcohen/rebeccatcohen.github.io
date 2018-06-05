@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	color: #CEFF32;
+	background-color: #2D6CCC;
+}
+
+h1{
+	color: #FF3419;
+}
+
+#slogan{
+	font-style: italic;
+}
